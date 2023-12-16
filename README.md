@@ -12,8 +12,8 @@
 *Praktikum 7 : Pengenalan While Loop Dengan Use Case Login `231031013-abrielyosua-praktikum-a7.py`
 *UTS PROG    : Ujian Tengah Semester Pemrograman `231031013-middle-SIA.py`
 *PerbaikanUTS: Perbaikan Ujian Tengah Semester Pemrograman `231031013-perbaikanUTS-A.py`
-*Praktikum 9 : Pengenalan While Loop Dengan Use Case Perhitungan Luas Keliling `praktikum-a9`
-*Tugas 9     : Latihan Penggunaan For Loop Dengan Use Case Biodata `231031001-Jefri Al Buchari-tugas-9-A-.py`
+*Praktikum 9 : Pengenalan While Loop Dengan Use Case Perhitungan Luas Keliling `231031013-abrielyosua-praktikum-a9.py`
+*Tugas 9     : Latihan Penggunaan For Loop Dengan Use Case Biodata `231031013-abrielyosua-tugas-9-A-.py`
 *Praktikum 10: Pengenalan Jupyter Notebook `231031013-abrielyosua-praktikum-a10.py`
 *Tugas1-a10  : Program Ganjil Genap `231031013-abrielyosua-tugas1-a10.py`
 *Tugas21-a10 : Program Penjumlahan Waktu `231031013-abrielyosua-tugas21-a10.py`
